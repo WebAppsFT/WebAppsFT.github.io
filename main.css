@@ -15,42 +15,7 @@ h3 {
     text-align: center;
 }
 
-hr {
-    border-color: #a50000;
-    padding: 1px;
-    background-color: #a50000;
-    margin-inline: 25px;
-}
-
-.request {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    text-align: center;
-}
-
-.request h4{
-    font-size: 25px;
-}
-
-.number {
-    background-color: #3a3a3a;
-    border-color:#e20000;
-    padding: 7px;
-    font-size: 18px;
-    color: #aaaaaa;
-}
-
-.submit {
-    background-color: #a50000;
-    font-size: 18px;
-    padding: 7px;
-    margin-inline: 4px;
-    color: #000000;
-    border-color: #bebebe;
-}
-
 .result {
-    background-color: #808080;
+    background-color: #3f3f3f;
     color: #131313;
 }
